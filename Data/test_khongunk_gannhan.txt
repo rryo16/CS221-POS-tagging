@@ -1,0 +1,92 @@
+Việt_Nam	Np
+đang	R
+thực_hiện	V	
+nhiệm_vụ	N
+hoàn_thiện	V
+việc	N
+thay_đổi	V
+chính_sách	N
+.	CH
+
+Mở_rộng	V
+mạng_lưới	N
+giao_dịch	V
+khẩu_trang	N
+là	C
+rất	R
+tiềm_năng	A
+.	CH
+
+Phương_pháp	N
+ấy	P
+mang	V
+lại	V
+hiệu_quả	A
+đáng_kể	A
+với	C
+thế_giới	N
+.	CH
+
+Cổ_động_viên	N
+từ_chối	V
+nói_chuyện	V
+với	C
+nhà_khoa_học	N
+.	CH
+
+Hiện_thực	N
+dần	R
+được	V
+hoàn_thành	V
+qua	E
+cái	N
+tủ_lạnh	N
+.	CH
+
+Màu	N
+xanh	A
+và	C
+màu	N
+đỏ	A
+rất	R
+đẹp	A
+.	CH
+
+Đối_tượng	N
+nhiễm_bệnh	V
+đưa	V
+ra	E
+giải_pháp	N
+cho	E
+mình	P
+.	CH
+
+Tương_lai	N
+bán_lẻ	V
+vật_liệu	N
+cao_cấp	A
+đã	R
+được	V
+hiện_thực	V
+.	CH
+
+Câu_đố	N
+hóc_búa	A
+này	P
+làm	V
+tôi	P
+đau_đầu	V
+suốt	A
+2	M
+năm	N
+liền	R
+.	CH
+
+Anh	P
+ấy	P
+đề_cao	V
+việc	N
+nghiên_cứu	V
+phát_triển	V
+chiến_lược	N
+.	CH
